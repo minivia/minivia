@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @minivia
 - 👀 I’m interested in data analysis, visualisation tools, & making the massive amount of available data more accessible!
-- 🌱 I’m currently learning MySQL, Python, R, and Tableau.
+- 🌱 I’m currently learning MySQL, Python, R, and [Tableau](https://public.tableau.com/app/profile/minivia).
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/minivia-fernandes/)
 
 <!---
