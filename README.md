@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @minivia
 - 👀 I’m interested in data analysis, visualisation tools, & making the massive amount of available data more accessible!
 - 🌱 I’m currently learning MySQL, Python, R, and Tableau.
-- 💞️ I’d love to learn more about the intersection of data and health equity.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/minivia-fernandes/)
 
 <!---
